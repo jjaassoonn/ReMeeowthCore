@@ -1,0 +1,32 @@
+* 代办事项[62%]:
+** DONE 正则化Real类的字面值以及绝对值
+CLOSED: [2015-08-19 Wed 18:36]
+
+** DONE Real类对象是否相等的方法
+CLOSED: [2015-08-19 Wed 18:37]
+
+** DONE Real类比较大小
+CLOSED: [2015-08-19 Wed 18:50]
+
+** DONE Real类对象的减法
+CLOSED: [2015-08-19 Wed 23:34]
+
+** DONE Real类对象乘法
+CLOSED: [2015-08-19 Wed 23:34]
+
+** TODO 构建Rational类 [0%]
+*** TODO Rational类判断相等
+*** TODO Rational类判断大小
+*** TODO Rational类的四则运算 [0%]
+**** TODO 加
+**** TODO 减
+**** TODO 乘
+**** TODO 除
+
+**  TODO Real类对象和Rational类对象的转换 [0%]
+*** TODO Rational类的分子分母均为整数的Real类对象
+*** TODO Rational类对象转换为Real类对象实现任意精度
+
+** TODO 完成Real类对象的除法
+
+

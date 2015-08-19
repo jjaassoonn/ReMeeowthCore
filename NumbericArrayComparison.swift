@@ -1,5 +1,5 @@
 //
-//  main.swift
+//  NumbericArrayComparison.swift
 //  symbolic
 //
 //  Created by jazzon on 15/8/18.
@@ -7,6 +7,3 @@
 //
 
 import Foundation
-
-print("Hello, World!")
-
